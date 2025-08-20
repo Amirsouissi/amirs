@@ -1,92 +1,122 @@
-<!-- Header Section with Logo and Title -->
+<!-- Animated Welcome Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Dr.+Amir+Souissi;A+Passionate+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7C7&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+Amir+Souissi;Full-Stack+Developer;Open-Source+Enthusiast" alt="Typing SVG" /></a>
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Amirsouissi&label=Profile+Views&color=0e75b6&style=flat" alt="Amirsouissi" />
 </div>
 
 ---
 
 <!-- Interactive Tabs Section -->
 <details open>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><b>📈 GitHub Analytics</b></summary>
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="your-username's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amirsouissi&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="Amirsouissi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsouissi&layout=compact&theme=react&hide_border=true&langs_count=8&hide=html,css" alt="Amirsouissi's Top Languages"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirsouissi&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 </details>
 
 <details>
-<summary><b>🛠️ Tech Stack & Tools</b></summary>
+<summary><b>⚡ My Tech Stack</b></summary>
 <br>
 <p align="center">
 
-**Languages:**
+**💻 Languages:**
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
-**Frameworks & Libraries:**
+**🖼️ Frontend:**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+
+**🔧 Backend:**
+<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 
-**Tools & Platforms:**
+**🗄️ Databases:**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+
+**☁️ DevOps & Cloud:**
 <br>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 </details>
 
 <details>
-<summary><b>🚀 My Projects</b></summary>
+<summary><b>🚀 Featured Projects</b></summary>
 <br>
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🔥 Cool Project One</h3>
-      <a href="https://github.com/your-username/cool-project-one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=cool-project-one&theme=react&hide_border=true" alt="Cool Project One">
+    <td width="50%" align="center">
+      <h3>🎯 Project Alpha</h3>
+      <a href="https://github.com/Amirsouissi/project-alpha">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirsouissi&repo=project-alpha&theme=react&hide_border=true" alt="Project Alpha">
       </a>
-      <p>A brief description of what this project does and why it's cool.</p>
+      <p><em>A high-performance web app built with React and Node.js.</em></p>
+      <img src="https://img.shields.io/github/stars/Amirsouissi/project-alpha?style=social" alt="Stars">
     </td>
-    <td align="center" width="50%">
-      <h3>💡 Cool Project Two</h3>
-      <a href="https://github.com/your-username/cool-project-two">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=cool-project-two&theme=react&hide_border=true" alt="Cool Project Two">
+    <td width="50%" align="center">
+      <h3>🤖 Project Beta</h3>
+      <a href="https://github.com/Amirsouissi/project-beta">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirsouissi&repo=project-beta&theme=react&hide_border=true" alt="Project Beta">
       </a>
-      <p>A brief description of what this project does and why it's cool.</p>
+      <p><em>An AI/ML tool built with Python and TensorFlow.</em></p>
+      <img src="https://img.shields.io/github/stars/Amirsouissi/project-beta?style=social" alt="Stars">
     </td>
   </tr>
 </table>
+<div align="center">
+  <a href="https://github.com/Amirsouissi?tab=repositories">
+    <b>📂 Explore More Projects</b>
+  </a>
+</div>
 </details>
 
 <details>
-<summary><b>📫 How to Reach Me</b></summary>
+<summary><b>📞 Let's Connect</b></summary>
 <br>
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:amir.souissi@email.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://your-personal-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=coil&logoColor=white" alt="Personal Website">
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://amirsouissi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=coil&logoColor=white" alt="Portfolio">
   </a>
 </p>
 </details>
 
-<!-- Snake Game Animation (Continuously animated) -->
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsouissi&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+<!-- Snake Game Contribution Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirsouissi/Amirsouissi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirsouissi/Amirsouissi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amirsouissi/Amirsouissi/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
