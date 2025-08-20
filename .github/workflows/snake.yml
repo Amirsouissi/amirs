@@ -21,7 +21,7 @@ jobs:
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # Automatically uses your username
+          github_user_name: ${{ github.Amirsouissi }} # Automatically uses your username
 
           # These are the output files. The 'dist/' folder is important.
           outputs: |
