@@ -95,14 +95,11 @@
   <a href="https://www.linkedin.com/in/amir-souissi-04339a76/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:souissiamir89@email.com">
+  <a href="mailto:souissiamir89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/souissi_amir" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://amirsouissi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=coil&logoColor=white" alt="Portfolio">
   </a>
 </p>
 </details>
