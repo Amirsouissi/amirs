@@ -1,6 +1,6 @@
 <!-- Header Section with Logo and Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Alex+Smith;A+Passionate+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Amir+Souissi;A+Passionate+Developer" alt="Typing SVG" />
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="visitor badge"/>
 </div>
