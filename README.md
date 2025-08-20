@@ -92,14 +92,14 @@
 <summary><b>📞 Let's Connect</b></summary>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amir-souissi-04339a76/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-souissi-04339a76/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:amir.souissi@email.com">
+  <a href="mailto:souissiamir89@email.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/souissi_amir" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://amirsouissi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=coil&logoColor=white" alt="Portfolio">
