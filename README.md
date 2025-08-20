@@ -92,7 +92,7 @@
 <summary><b>📞 Let's Connect</b></summary>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amir-souissi-04339a76/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:amir.souissi@email.com">
